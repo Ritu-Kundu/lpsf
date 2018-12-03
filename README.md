@@ -1,4 +1,4 @@
-#lspf: Tool to compute Longest Successor and/or Previous Factor Array
+# lspf: Tool to compute Longest Successor and/or Previous Factor Array
 
 This is an implementation of the linear-time algorithm by Crochemore and Ilie to find the Longest Previous Factor (LPF) Array using Suffix Array as published in the following:
 
